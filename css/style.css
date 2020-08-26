@@ -2308,7 +2308,7 @@ font-family: 'Mulish', sans-serif;
 
 		.in-info-1{
 		padding-left:25px;
-		padding-top: 0;
+		padding-top: 20px;
 		padding-right:15px;
 		padding-bottom: 25px;
 		box-shadow: 0 5px 15px 0 rgba(0,0,0,.1);
@@ -2678,7 +2678,7 @@ font-family: 'Mulish', sans-serif;
 		font-family: 'Poppins', sans-serif;
 		font-weight: 600;
 		color: #001733;
-		font-size: 34px;
+		font-size: 30px;
 		text-align: center;
 		padding-bottom: 5px;
 		width: 100%;
@@ -2724,7 +2724,7 @@ font-family: 'Mulish', sans-serif;
 		text-align: center;
 		padding-bottom: 5px;
 		width: 100%;
-		margin-bottom: 20px;
+		margin-bottom: 5;
 		
 }
 
@@ -3194,7 +3194,7 @@ text-align: left;
 			font-family: 'Poppins', sans-serif;
 			font-weight: 400;
 			color: #212529;
-			font-size: 16px;
+			font-size: 17px;
 			text-align: left;
 			padding-right: 10px;
 			width: 100%;
@@ -3277,7 +3277,7 @@ text-align: left;
 		font-family: 'Poppins', sans-serif;
 		font-weight: 400;
 		color: #212529;
-   		 font-size: 16px;
+   		 font-size: 17px;
 		text-align:left;
 		padding-right: 10px;
 		width: 100%;
@@ -3449,7 +3449,7 @@ text-align: left;
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	color: #333;
-	font-size: 15px;
+	font-size: 16px;
 	text-align: left;
 	margin-bottom: 25px;
 
@@ -3572,7 +3572,7 @@ text-align: left;
 	.warranty-banner h6{
 		font-weight: 600;
 		color: #212529;
-		font-size: 16px;
+		font-size: 15px;
 		text-align: left;
 		font-family: 'Poppins', sans-serif;
 		margin-bottom: 5px;
@@ -3630,11 +3630,15 @@ text-align: left;
 		font-weight: 500;
 		color: #001733;
 		font-size: 17px;
-		text-align: center;
+		text-align: left;
 		margin-top: 5px;
 		margin-bottom: 30px;
 		font-family: 'Poppins', sans-serif;
 		width: 100%;
+	}
+
+	.right-contact{
+		padding-left: 35px;
 	}
 	
 	
@@ -3925,7 +3929,7 @@ text-align: left;
 			font-family: 'Poppins', sans-serif;
 			font-weight: 600;
 			color: #fff;
-			font-size: 38px;
+			font-size: 30px;
 			text-align: center;
 			padding-bottom: 5px;
 			width: 100%;
@@ -4035,7 +4039,7 @@ text-align: left;
 		font-family: 'Poppins', sans-serif;
 		font-weight: 400;
 		color: #fff;
-		font-size: 16px;
+		font-size: 17px;
 		text-align:left;
 		padding-right: 10px;
 		width: 100%;
