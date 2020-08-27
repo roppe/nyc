@@ -14,7 +14,7 @@
 		.navbar-toggler .navbar-toggler-icon .fa{
 		font-size: 30px;
 		display: block !important;
-		color: #e69906!important;
+		color: #2296f9!important;
 		border:0;
 		}
 
@@ -4233,12 +4233,80 @@ text-align: left;
 		
 			@media (max-width: 1079px) {
 
-					.main-navigation .nav-list .nav-link{
+			
+
+				.right-contact h2{
+					font-size: 26px;
+				}
+
+				.right-contact h3{
+					font-size: 16px;
+				}
+
+				.list-contact {
+					display: block;
+					width: 100%;
+					list-style-type: none;
+					margin-left: auto;
+					margin-right: auto;
+					margin-top: 40px;
+					padding-left: 0;
+				}
+
+				.main-navigation .nav-list .nav-link {
+					font-size: 10px;
+				}
+
+				.in-info-1 h2{
+					font-size: 24px;
+				}
+
+				.drain-top h3{
+					font-size: 30px;
+				}
+
+				#home-about .first-info h2{
+					font-size: 33px;
+				}
+
+				#section-services .left-one .t-1{
+					font-size: 34px;
+				}
+
+				#section-services .left-one h4{
+					font-size: 16px;
+				}
+
+				#section-services .left-one .list-s{
+					padding-left: 10px;
+				}
+
+				.customers h2{
+					font-size:27px;
+				}
+
+				#blue-drain .blue-right h2{
+					font-size: 35px;
+				}
+
+				.info-service h2{
+					font-size: 29px;
+				}
+
+				.review-section .text-box-cust h2{
+					font-size: 27px;
+				}
+				
+				.main-navigation .nav-list .nav-link{
 						font-size: 11px;
 					}
 
 					#buy-txt-section .repair-content h2{
 						font-size: 24px;
+					}
+
+					#about-top p{
+						font-size: 15px;
 					}
 
 					.banner-call .call-left h4{
@@ -4289,7 +4357,146 @@ text-align: left;
 
 		@media (max-width: 991px) {
 				
-			 
+			
+
+			.main-navigation .nav-list .btn-call{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			#about-top .ab-1 h2{
+				font-size: 30px;
+			}
+
+			.s-list li {
+				display: inline-block;
+				margin-bottom: 20px;
+				width: 98%;
+				margin-right:0;
+			}
+
+			.bottom-text h2{
+				font-size: 24px;
+			}
+
+			.bottom-text h2 span{
+				font-size: 17px;
+			}
+
+			#home-about p {
+				font-size: 15px;
+			}
+
+			#home-about .first-info h2 {
+				font-size: 31px;
+			}
+
+			#section-services .left-one .t-1 {
+				font-size: 32px;
+			}
+
+			#section-services .left-one .list-s li{
+				font-size: 15px;
+			}
+
+			#section-services .left-one .btn-5{
+				float: none;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			.home-img-1{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			.drain-img-2{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			#blue-drain .blue-right .list-s li{
+				font-size: 15px;
+			}
+
+			.info-service h2 {
+				font-size: 25px;
+			}
+
+			.info-service h3{
+				font-size: 15px;
+			}
+
+			.info-service p{
+				font-size: 15px;
+			}
+
+			.warranty-banner h2{
+				font-size: 27px;
+				margin-top: 25px;
+			}
+
+			.review-section .text-box-cust h2 {
+				font-size: 22px;
+			}
+
+			.impression-user .people {
+				position: absolute;
+				left: 40%;
+				top: -20px;
+				width: 50px;
+				height: 50px;
+			}
+
+			.impression-user .star {
+				position: absolute;
+				left: 38%;
+				bottom: 10px;
+				width: 13%;
+			}
+			.review-section .impression-user{
+				height: 210px;
+			}
+
+			.adress-nav li {
+				display: inline-block;
+				margin-right: 10px;
+				width: 46%;
+			}
+
+			.adress-nav li:last-child {
+				margin-right: 0;
+				margin-top: 25px;
+				width: 60%;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			.adress-nav li img {
+				display: block;
+				margin-right: 15px;
+				float: left;
+				margin-bottom: -13px;
+			}
+
+			.adress-nav li:last-child {
+				margin-right: 0;
+				margin-top: 25px;
+			}
+
+			.customers h2 {
+				font-size: 23px;
+			}
+
+			.customers .call{
+				font-size: 21px;
+			}
+
 
 				#top-section .tx-box-1 h2{
 				font-size: 22px;
@@ -4453,6 +4660,70 @@ text-align: left;
 
 		@media (max-width: 767.98px) {
 
+			
+
+
+			#home-about .first-info h2 {
+				font-size: 26px;
+			}
+
+			#section-services .left-one .t-1 {
+				font-size: 29px;
+			}
+
+			#section-services .left-one h4 {
+				font-size: 15px;
+			}
+
+			#section-services .left-one p{
+				font-size: 15px;
+			}
+
+			.customers h2 {
+				font-size: 18px;
+			}
+
+			#blue-drain .blue-right h4{
+				font-size: 16px;
+			}
+
+			#blue-drain .blue-right h2 {
+				font-size: 30px;
+			}
+
+			.warranty-banner h6{
+				width: 100%;
+			}
+
+			.review-section .impression-user {
+				height: 220px;
+			}
+
+			.adress-nav li {
+				display: inline-block;
+				margin-right:0;
+				width: 100%;
+				margin-top: 30px;
+			}
+
+			.adress-nav li:last-child {
+				margin-right: 0;
+				margin-top: 25px;
+				width: 100%;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			.top-home .text-area h2 {
+				font-family: 'Poppins', sans-serif;
+				font-weight: 700;
+				color: #fff;
+				font-size: 24px;
+				text-align: left;
+				margin-top: 10px;
+				text-transform: uppercase;
+			}
 
 
 				.process-steps{
@@ -4554,6 +4825,14 @@ text-align: left;
 				text-align: center;
 				}
 
+				.right-contact h2{
+					font-size: 23px;
+				}
+
+				.list-contact{
+					width: 100%;
+				}
+
 
 
 	}   /* /End responsive Tablet size */
@@ -4565,7 +4844,170 @@ text-align: left;
 
 	
 	@media (max-width: 575.98px) { 
-	
+
+		
+
+		.top-home .text-area h3 {
+			font-family: 'Poppins', sans-serif;
+			font-weight: 600;
+			color: #fff;
+			font-size: 17px;
+			text-align: center;
+		}
+
+		.top-home .text-area h2 {
+			font-family: 'Poppins', sans-serif;
+			font-weight: 700;
+			color: #fff;
+			font-size: 22px;
+			text-align: center;
+			margin-top: 10px;
+			text-transform: uppercase;
+		}
+
+		.top-home .text-area .btn-call {
+			display: block;
+			font-family: 'Poppins', sans-serif;
+			font-weight: 600;
+			color: #fff;
+			font-size: 22px;
+			float:none;
+			width: 329px;
+			border: 1.5px solid #fff;
+			padding-top: 13px;
+			padding-bottom: 13px;
+			border-radius: 15px;
+			margin-top: 40px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		#section-services .left-one{
+			padding-left: 20px;
+			padding-right: 20px;
+		}
+
+		#section-services .left-one .t-1 {
+			font-size: 26px;
+		}
+
+		#section-services .left-one h4 .line-left {
+		display: none;
+		}
+
+		.customers .call {
+			font-size: 18px;
+		}
+
+		#blue-drain .blue-right{
+			padding-left: 20px;
+			padding-right: 20px;
+		}
+
+		#blue-drain .blue-right .line-left {
+			display:none;
+		}
+
+		#blue-drain .blue-right h2 {
+			font-size: 28px;
+		}
+
+		.info-service h2 {
+			font-size: 23px;
+		}
+
+		.review-section .impression-user {
+			height: 283px;
+		}
+
+		.impression-user .star {
+			position: absolute;
+			left: 43%;
+			bottom: 10px;
+			width: 13%;
+		}
+
+		.adress-nav li a{
+			padding-right: 5px;
+		}
+
+		.main-navigation .nav-list .btn-call{
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		#new-top .new-info h2{
+			font-size: 30px;
+		}
+
+		#about-top .ab-1 h2{
+			font-size: 27px;
+			margin-bottom: 25px;
+		}
+
+		#about-top .ab-1{
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+
+		.in-info-1 h2{
+			font-size: 23px;
+		}
+
+		.s-list li {
+			display: inline-block;
+			margin-bottom: 20px;
+			width: 99%;
+			margin-right:0;
+		}
+
+		.s-list h3{
+			font-size: 24px;
+		}
+
+		.bottom-text h2{
+			font-size: 24px;
+		}
+
+		.in-info-1{
+			padding-left: 15px;
+		}
+
+		.drain-top h3{
+			font-size: 27px;
+		}
+
+		.right-contact h2{
+			font-size: 23px;
+		}
+
+		.list-contact{
+			width: 100%;
+			padding-left: 15px;
+		}
+
+		.right-contact {
+			padding-left: 10px;
+		}
+
+		.list-contact li h6{
+			font-size: 22px;
+		}
+
+		.right-contact h3{
+			padding-left: 20px;
+		}
+
+		.bottom-text h2 span{
+			font-size: 17px;
+		}
+
+		.bottom-text .btn-10{
+			font-size: 24px;	
+		}
+
+
 
 				#home-section .text-area h2 span{
 						font-size: 24px;
