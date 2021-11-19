@@ -1,2 +1,0 @@
-# nyc
-NEW WIZ SITE
