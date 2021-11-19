@@ -329,12 +329,13 @@
     #info-description{
         padding-top: 50px;
         padding-bottom: 50px;
+        background-color: #2e8f55;
     }
 
     .info-left-side h2{
         font-family: "Roboto";
         font-weight: 600;
-        color: #1E1D24;
+        color:#fff;
         font-size: 32px;
         margin-bottom: 25px;
 
@@ -343,7 +344,7 @@
     .info-left-side  h3 {
     font-family: "Open Sans";
     font-weight: 500;
-    color: #273a44;
+    color: #fff;
     font-size: 22px;
     text-align: left;
     margin-top: 5px;
@@ -362,15 +363,49 @@
     .info-left-side  h6{
     font-family: "Open Sans";
     font-weight: 600;    
-    color: #404b54; 
+    color: #fff; 
     font-size: 15px;
     text-align: left;
     margin-bottom: 30px;
     }
 
+
+    .dots{
+    color:#fff;
+    list-style-type:circle !important;
+    margin-top: 15px;
+    width: 100%;
+    display: block;
+    float: left;
+
+    }
+
+    .dots li{
+
+    list-style: none;
+    margin-bottom:0;
+    width: 47%;
+    float: left;
+    display: block;
+
+    }
+
+    .dots li p{
+        font-family: "Roboto";
+    font-weight: 600;
+    color: #fff;
+    font-size: 19px;
+    margin-bottom: 5px;
+    }
+
+    .dots li p .fa{
+        margin-right: 10px;
+    }
+    
+ 
    
     .info-left-side h4 {
-        color: #1E1D24;
+        color:#fff;
         font-size: 17px;
         font-family: "Open Sans";
         margin-bottom: 20px;
@@ -430,18 +465,21 @@
     /* Banner call us now  */
     
     .banner-call{
-    padding-top:40px;padding-bottom: 40px;
+    padding-top:120px;padding-bottom: 120px;
     background-color:#e7f5f1aa;
-    border-radius: 20px;
+  
     width: 100%;
-    margin-bottom: 50px;
+ 
+    background-image: url(../img/banner-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
   
     }
 
     .banner-call .call-left h4{
     font-family: 'Open Sans';
     font-weight: 700;
-    color:#146789;
+    color:#fff;
     font-size: 35px;
     text-align: center;
     margin-top: 20px;
@@ -452,7 +490,7 @@
     .banner-call .call-left h5{
     font-family: 'Open Sans';
     font-weight: 00;
-    color: #146789;
+    color: #fff;
     font-size: 18px;
     margin-top: 10px;
     text-align: center;
@@ -553,7 +591,7 @@
     #section-antislip{
     padding-top: 40px;
     padding-bottom:70px;
-    background-color:#f6f7f8;
+    
     }
 
     #custCarousel{
