@@ -237,7 +237,7 @@
      /*contact us section*/
 
     #contact-section{
-    background-image: url(../img/hero.jpg);
+    background-image: url(../img/home-page.jpg);
     position: relative;
     background-repeat: no-repeat;
     padding:120px 0 10px;
@@ -459,7 +459,54 @@
     margin-right: auto;
     }
 
+    .green {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: #00904f;
+    }
 
+    .bug-list{
+        display:block;
+        width: 100%;
+        list-style: none;
+        margin-top:40px;
+        padding-left: 0;
+        margin-top: 0;
+    }
+ 
+     .bug-list li{
+     display: block;
+     float: left;
+    width: 15%;
+     
+    
+ 
+     }
+ 
+     .bug-list li:last-child{
+         margin-right: 0;
+     }
+ 
+     .bug-list li img{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 45px;
+     }
+ 
+ 
+ 
+     .bug-list li p{
+     font-size: 13px;
+     font-family: "Roboto";
+     text-align: center;
+     color: #ffffff;
+     font-weight: 400;
+     line-height: 15px;
+     margin-top: 15px;
+     margin-bottom: 0;
+  
+     }
 
 
     /* Banner call us now  */
@@ -680,7 +727,7 @@
     }
 
      .fea-list  img{
-     width: 120px;height: 120px;
+    
     display: block;
     margin-left: auto;
     margin-right: auto;
